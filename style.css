@@ -1,0 +1,27 @@
+/*
+Color Palette
+background color: ##FF0000
+primary: ##0000FF
+secondary: ##00FF00
+tertiary: #FF0080
+accent: #9277AC
+vegasGold: #c5b358
+white: #fff
+black: #000  
+*/
+
+body {
+    background-color: #FF0000
+}
+
+
+
+
+
+.Christmas {
+ background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
