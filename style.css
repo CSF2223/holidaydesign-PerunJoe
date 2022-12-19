@@ -18,10 +18,43 @@ body {
 
 
 
-.Christmas {
- background-color: tomato;
+.Hanukkah {
+ background-color: red;
   color: white;
   border: 2px solid black;
   margin: 20px;
   padding: 20px;
+}
+
+.KFC {
+ background-color: green;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+
+.LuckySpiderWebs {
+ background-color: blue;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.title {
+ text-align: center;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+h2{
+ border-radius: 2rem;
+ border: 5px solid yellow;
+ background-color:yellow;
+ display:inline;
+ box-shadow:10px 10px 10px #000;
+ color:#000;
 }
