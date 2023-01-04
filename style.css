@@ -1,0 +1,115 @@
+/*
+Color Palette
+background color: ##FF0000
+primary: ##0000FF
+secondary: ##00FF00
+tertiary: #FF0080
+accent: #9277AC
+vegasGold: #c5b358
+white: #fff
+black: #000  
+*/
+
+body {
+    background-color: #FF0000
+}
+
+
+
+
+
+.Hanukkah {
+ background-color: red;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.Hanukkah img {
+ border-radius: 2rem;
+}
+
+.KFC {
+ background-color: green;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.KFC  img {
+  border-radius: 2rem;
+}
+
+
+
+
+.LuckySpiderWebs {
+ background-color: blue;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.LuckySpiderWebs  img {
+  border-radius: 2rem;
+}
+
+.title {
+ text-align: center;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+h2{
+ border-radius: 2rem;
+ border: 5px solid yellow;
+ background-color:yellow;
+ display:inline;
+ box-shadow:10px 10px 10px #000;
+ color:#000;
+}
+
+@media (min-width: 800px) {
+ 
+ .buttons button {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 2rem;
+  margin: 1rem;
+  color: white;
+  padding: 1.5rem 3.2rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:1.6rem;
+ }
+}
+
+.celebration1 {
+ margin-top: 5rem;
+ margin-bottom: 5rem;
+ display: flex;
+ flex-direction: row;
+}
+
+.celebration2 {
+ margin-bottom: 5rem;
+ display: flex;
+ flex-direction: row;
+}
+
+.celebration3 {
+ margin-bottom: 5rem;
+ display: flex;
+ flex-direction: row;
+}
+
+.text {
+ margin: 2rem;
+}
+
+
